@@ -1,0 +1,1 @@
+paste the standings data here and run `npm start` from the root of this project

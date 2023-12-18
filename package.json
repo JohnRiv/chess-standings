@@ -1,0 +1,13 @@
+{
+  "name": "chess-standings",
+  "version": "1.0.0",
+  "description": "Determines standings for a given chess rating range",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Riviello",
+  "license": "ISC",
+  "private": true
+}
