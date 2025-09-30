@@ -1,0 +1,55 @@
+  99  Bennett, Daniel                NYNEST   6  NY  1097  3.5 W 224w L 107b W 216w L  84b W 213w D  89b  ---  
+ 100  Turner, Zoey                   NYI318   6  NY  1061  3.5 L   6b W 201w L  49b W 155w D  83b W 160w  ---  
+ 101  Watson, Wyatt                  FLO007   6  FL   935  3.5 D  21w W 223b L  78w W  94b L  88b W 162w  ---  
+ 124  Bennett, Harper                OHD023   6  OH  1085  3.0 W 247b W  35w L  21b D  81w D  79w L  56b  ---  
+ 125  Hill, Noah                     TXH103   6  TX  1081  3.0 L   1b L 155w W 228b L 154w W 211b W 187w  ---  
+ 126  Hayes, Ava                     NYS005   6  NY  1078  3.0 L   5b W 199w W 247b L  51w W 159b L  54w  ---  
+ 127  Foster, Aiden                  NCJMRO   6  NC  1071  3.0 L   2b W 225w L  20b W 196w L  50b W 191w  ---  
+ 128  Bryant, Daniel                 NYNSAH   6  NY  1068  3.0 L  15w W 178b D  79w W 227b D 109w L  57b  ---  
+ 129  Watson, Scarlett               NYM104   6  NY  1045  3.0 L   7w D 202b W 239w L  79b D 188w W 194b  ---  
+ 130  Turner, Samuel                 NYI318   6  NY  1040  3.0 L  16b W 206w W  83b W  85b L  30w L  55w  ---  
+ 131  Ellis, Chloe                   FLW031   6  FL  1031  3.0 L  40b W 208w W 160b L  52w L 112b W 192w  ---  
+ 132  Price, Alexander               NYAVEN   6  NY  1022  3.0 L   9w L 209b W 234w W 225b L  55b W 193w  ---  
+ 133  Reed, Stella                   FLWBAK   6  FL  1014  3.0   -H-    -H-  D 109w L  91b D 152w W 197b  ---  
+ 134  Morris, James                  NCDURH   6  NC  1009  3.0 L  18b W 211w W 161b L  54w W 114b L  59w  ---  
+ 135  Brooks, Olivia                 FLB008   6  FL   999  3.0 L  74b W 215w L  52b W 201w L  89b W 196w  ---  
+ 136  Davis, Evelyn                  PAF007   6  PA   986  3.0 L  19w W 212b L  84w W 203b L 115w W 198b  ---  
+ 137  Parker, Caleb                  VAF026   6  VA   962  3.0   -X-  L 108w W  86b L  53b L  57w W 199w  ---  
+ 138  Russell, Wyatt                 ILCHID   6  IL   960  3.0 L  41w W 232b L 110w W 205b L  58w W 200b  ---  
+ 139  Campbell, Lillian              FLT001   6  FL   947  3.0 L  42b W 217w L  54b W 206w L  59b W 201w  ---  
+ 140  Bennett, Elijah                JAK001   6  FL   939  3.0 L 121b W 192w L 164b W 208w L  60b W 203w  ---  
+ 141  Ward, Sophia                   NYI318   6  NY   937  3.0 L  12b L 158w W 218b W 211w L  93b W 206w  ---  
+ 142  Bryant, Leo                    FLHTRI   6  FL   895  3.0 L  24b W 234w L  55b W 215w L  63b W 214w  ---  
+ 143  Hayes, Penelope                NYACRI   6  NY   893  3.0 L  43w W 235b L 111w W 212b L 116w W 205b  ---  
+ 144  Foster, Hazel                  FLO038   6  FL   887  3.0 L  25b W 218w W 114b W 112w L  31w L  58b  ---  
+ 145  Turner, Benjamin               VAM019   6  VA   882  3.0 L  27w W 236b L 112w W 214b L  64w W 213b  ---  
+ 146  Watson, Daniel                 NYHUNT   6  NY   873  3.0 L  26b W 219w D  88b D  93w L  95b W 216w  ---  
+ 147  Morris, Isabella               NYDALT   6       870  3.0 L  44w W 237b L 113w W 216b L  65w W 220b  ---  
+ 148  Reed, Andrew                   GAADMS   6  GA   846  3.0 L  13w W 230b L 115w W 217b L  66b W 218w  ---  
+ 149  Brooks, Noah                   FLMMLM   6  FL   837  3.0 L  29w W 241b L  89w W 233b L 118w W 224b  ---  
+ 150  Parker, Mia                    NYM010   6  NY   835  3.0 L  14b W 242w L  60b L 159w W 215b W 222w  ---  
+ 151  Bryant, Grace                  NYACRI   6  NY   813  3.0 L  76w W 258b W  92w L 111b D  97w D 122b  ---  
+ 163  Bryant, Elijah                 PAPSPR   6  PA  1085  2.5 W 248w   -H-  L  34b D 102w   -H-  L  85b  ---  
+ 164  Hayes, Aria                    NYN105   6  NY  1080  2.5 L   4w W 198b W 140w L 110b L 102w D 176b  ---  
+ 165  Parker, Penelope               NYI318   6  NY  1056  2.5 L   3w W 200b L  15w W 198b D 160b L  83w  ---  
+ 166  Russell, Leo                   ILCHID   6  IL  1050  2.5 L  38b W 203w D  35b D  50w D  86b L  91w  ---  
+ 167  Bennett, Wyatt                 DENIND   6  DE  1044  2.5 L   8b W 204w D  50b L  88w W 175b L  86w  ---  
+ 168  Morris, Sophia                 NYHUNT   6  NY  1041  2.5 L  39w L 205b W 229w W 199b D  85w L  92b  ---  
+ 169  Foster, Noah                   FLT014   6  FL  1001  2.5   -H-  L 227b W 202w L 109b L 178w W 226b  ---  
+ 170  Turner, Mia                    TXH103   6  TX   969  2.5 L  20b D 102w W 157b L  90w W 226b L  96w  ---  
+ 171  Watson, Benjamin               FLM091   6  FL   938  2.5 L  11w W 233b L  85w W 209b D  92w L  94b  ---  
+ 172  Reed, Lillian                  NYAVEN   6  NY   853  2.5 L  75b W 238w D  90b L 117w W 228b L  97b  ---  
+ 173  Davis, Grace                   SCL005   6  SC   826  2.5   -H-  L  45w L 102b W 244b L  94w W 227b  ---  
+ 174  Ward, Oliver                   NYAVEN   6  NY   818  2.5 D  45b L  46w   -X-  L  62b L 162w W 228w  ---  
+ 175  Brooks, Stella                 VAM020   6  VA   816  2.5 L  32w W 255b D  91w L  37b L 167w W 229b  ---  
+ 179  Russell, Joseph                FLJFCM   6  FL  1077  2.0 L  72w L 156b L 233w W 202b W 212w L 152b  ---  
+ 180  Morris, Evelyn                 LAN013   6  LA  1039  2.0 L  73w W 207b L  82w D 178b   -H-  L 153w  ---  
+ 181  Bennett, Wyatt                 FLJ009   6  FL  1015  2.0 L  17w W 210b L  36w W 200b L 113b L 154w  ---  
+ 182  Foster, Sophia                 TXH103   6  TX   966  2.0 L  10w L 216b W 235w W 231b L  56b L 155w  ---  
+ 183  Turner, Alexander              NCM015   6  NC   932  2.0 L  22b D 228w L 226b D 157w L 214b W 230w  ---  
+ 184  Watson, Aria                   ALMLIB   6  AL   918  2.0 L  23w W 229b L  53w W 210b L  61b L 157w  ---  
+ 185  Davis, Gabriel                 FLW011   6       840  2.0 L  28b W 240w L  59b L 158w L 157b W 232w  ---  
+ 186  Reed, Mia                      NYI318   6  NY   824  2.0 L  30w W 254b L  57w W 219b L  67b L 159w  ---  
+ 187  Campbell, James                NJVVMS   6  NJ   818  2.0 L  31w W 220b L  58w W 239b L 119w L 125b  ---  
+ 188  Brooks, Harper                 ILCEDI   6  IL   816  2.0 L 103b W 243w D  93b L  96w D 129b L 120w  ---  
+ 189  Ward, Lily                     OHG007   6  OH   815  2.0 L 104b W 244w L  61b W 222w L  68b L 121w  ---  

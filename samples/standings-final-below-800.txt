@@ -1,0 +1,80 @@
+ 113  Turner, Evelyn                  6  FLWBRI  FL   576  4.0  17.50  13.50 D  76w L 158b L 188w D 206b W 198w W 187b W 149w 
+ 117  Perry, Mia                      6  MDTAKO  MD   693  3.5  19.50  19.50 L  82b W 176w W 108b W  81w L  58b L  75w D 134b 
+ 136  Davis, Evelyn                   6  FLB008  FL   561  3.5  15.50  15.50 L 147w D 188b W 201w D 209b W 133b D  66w L  71b 
+ 148  Reed, Andrew                    6  FLW033  FL   737  3.0  22.00  19.00 W  64w L  55b L 119w W 104b L 155w W 169b L 105w 
+ 151  Bryant, Grace                   6  NJVVMS  NJ   719  3.0  20.50  18.50 L  55w W 104b L  97w L 118b W 220w W 181b L  83w 
+ 152  Russell, Alexander              6  FLM090  FL        3.0  20.00  18.00 L  65w L 168b W 229w W 111b L  83w W 178b L  85w 
+ 154  Foster, Liam                    6  ALDISC  AL   761  3.0  19.50  18.00 L  36b W 240w L  59b D 141w D 183b W 176w L  94b 
+ 157  Morris, Aiden                   6  NYI318  NY   749  3.0  19.50  17.50 L  74b W 219w L  42b L  67w W 224w W 184b L 104w 
+ 161  Campbell, Nora                  6  FLT001  FL   498  3.0  19.00  16.50 L 124w W 162b L 155w W 198b W 141w L 116b L 131w 
+ 168  Morris, Sophia                  6  NYDALT  NY   741  3.0  18.00  16.50 L  38b W 152w L  87b L 103w W 237b L 134w W 224b 
+ 170  Turner, Mia                     6  FLA006  FL   731  3.0  17.50  16.50 L  92b L 125w W 244b W 114w L  93b L 183w W 217b 
+ 172  Reed, Lillian                   6  FLP038  FL   761  3.0  17.00  15.00 L  69w W 208b L  91w L 131w W 233b L 149b W 222w 
+ 174  Ward, Oliver                    6  FLHOMR  FL   769  3.0  15.50  14.50 D 100w D 121b L 145w L 122w L 194b W 241b W 229w 
+ 175  Brooks, Stella                  6  FLOLAK  MD   584  3.0  15.50  14.00 L 103b L 163w W 240b L 109w L 176b W 230w W 214b 
+ 177  Bryant, Hazel                   6  NJVVMS  NJ   734  3.0  15.50  13.50 L  72w L 137b W 226w L 149b W 228w L 159b W 223w 
+ 180  Morris, Evelyn                  6  FLM076  FL   714  3.0  15.00  14.00 L  61b L 133w W 242b L 128w W 226b L 163w W 219b 
+ 182  Foster, Sophia                  6  FLO014  FL   689  3.0  14.50  13.50 L  47w L  83b W 239w L 140w W 248b L 153b W 220w 
+ 185  Davis, Gabriel                  6  FLB022  FL   735  3.0  12.50  11.50 L  62b L  64b L 220w W 242w L 217b W 237w W 235b 
+ 186  Reed, Mia                       6  TXH103  TX   170  3.0  12.50  11.50 L 108b L 166w L 218b W 241b W 216w L 156w W 238b 
+ 189  Ward, Lily                      6  FLO007  FL   718  2.5  20.00  17.50 D 121w L 100b W 210w W 135b L 129b L  54w L 133b 
+ 190  Bryant, Caleb                   6  FLM091  FL   685  2.5  19.50  17.50 L 122b L  94w W 227b D 184w W 142b L 103w L 140b 
+ 191  Hayes, Ava                      6  FLMMLM  FL   785  2.5  19.00  18.00 L  34b W 247w L  39b W 230w L  96b D 133w L 142b 
+ 194  Morris, Wyatt                   6  FLO003  FL   512  2.5  18.00  15.50 L 129b W 181w L  68b L 156w W 174w L 150b D 195w 
+ 196  Foster, Sophia                  6  NYDALT  NY   745  2.5  17.00  15.00 L  77w L 165b W 228w L 132b W 221w L  99b D 202w 
+ 199  Davis, Elijah                   6  FLW015  FL   484  2.5  15.50  15.50   -H-  W 142w L  76b L  94w L 108b L 201w W 239b 
+ 200  Reed, Olivia                    6  ALDISC  AL   606  2.5  15.50  14.50 L  43w L  85b W 246w L 160b W 232w L 162b D 206w 
+ 202  Hayes, Scarlett                 6  WIEPIL  WI   595  2.5  15.00  14.00 L  41b W 179w L  96b L 192w L 219b W 242w D 196b 
+ 203  Bryant, Joseph                  6  CTR004  CT   663  2.5  15.00  14.00 L  33b L 128w W 245b L 169w W 227b L 164w D 210b 
+ 204  Ward, Sophia                    6  FLT026  FL   595  2.5  14.50  13.50 L  79w L  99b W 235w L 165b L 208w W 244b D 187w 
+ 205  Parker, Aiden                   6  FLSSMS  FL   574  2.5  14.00  14.00   -H-  L  76b W 206w L 105b L 188w L 142w W 236b 
+ 207  Morris, Leo                     6  FLB008  FL   585  2.5  13.50  13.50 L  95w L 146b W 252w L 162b L 104w W 243b D 198w 
+ 208  Foster, Stella                  6  FLW031  FL        2.5  12.50  12.50 L  68b L 172w L 213b W 244w W 204b L 110w   -H-  
+ 210  Turner, Jackson                 6  FLOARB  FL        2.5  10.50  10.50   -H-  L 102w L 189b L 236w D 215b W 221b D 203w 
+ 211  Watson, Mia                     6  MDC015  MD   561  2.0  20.00  17.50 W 125b L  61w L 107b L 139w W 206w L 106b L 178w 
+ 212  Davis, Noah                     6  NYN105       609  2.0  19.50  17.50 L  40b W 140w L 101b L 164w W 230b L 109w L 166b 
+ 213  Reed, Harper                    6  FLMJFK  FL   533  2.0  18.50  16.50 L  70w L 159b W 208w L 106b L 111w W 232b L 167w 
+ 214  Brooks, Caleb                   6  FLMHOW  FL   743  2.0  18.00  17.00 L 116w W 249b L  88w W 108w L 107b L 179b L 175w 
+ 215  Hayes, Aria                     6  FLT026  FL   620  2.0  17.50  15.50 L 131b D 134w L 142b L 176w D 210w W 228b L 169w 
+ 216  Bryant, Wyatt                   6  GAB010  GA   611  2.0  17.00  16.00 W 137w L  58b L  65w L 181w L 186b L 220b W 248w 
+ 217  Ward, Daniel                    6  NYDALT  NY   405  2.0  17.00  16.00 L  57w L  78b L 162w W 246b W 185w L 171b L 170w 
+ 218  Parker, Hazel                   6  NYDALT  NY   620  2.0  17.00  15.50 L  98w L 120b W 186w L 163w W 235b L 165b L 181w 
+ 219  Russell, Chloe                  6  FLMMLM  FL        2.0  17.00  15.00 L  54w L 157b W 233w L 195b W 202w L 111b L 180w 
+ 220  Morris, Oliver                  6  FLMJFK  FL   341  2.0  17.00  15.00 L 145w L 150b W 185b L 178w L 151b W 216w L 182b 
+ 221  Bennett, Emily                  6  ALDISC  AL   490  2.0  15.50  14.50 L  75b L 192w W 176b L 110w L 196b L 210w W 242b 
+ 222  Foster, Benjamin                6  FLB008  FL   586  2.0  15.50  14.50 L  81b L 169w W 247b L 187w L 114b W 227w L 172b 
+ 223  Turner, Sophia                  6  FLT043  FL   567  2.0  15.00  15.00   -H-    -H-  W 114b L  62w L  68b L 139w L 177b 
+ 224  Watson, Liam                    6  NYN015  NY   506  2.0  14.00  13.00 L  84w L 160b W 249w L 171w L 157b W 247b L 168w 
+ 225  Davis, Ava                      6  NYACRI  NY   632  2.0  13.50  13.50 L 115w L 118b W 251w L 159b W 243w L 160b L 184w 
+ 226  Reed, Noah                      6  FLM091  FL   332  2.0  13.50  12.50 L  59b L 156w L 177b W 240w L 180w L 231b W 247w 
+ 227  Brooks, Mia                     6  FLW031  FL   217  2.0  13.50  12.50 L 119w L 111b L 190w W 229b L 203w L 222b W 241w 
+ 228  Hayes, Olivia                   6  FLOLAK  FL   345  2.0  13.00  12.00 L  39b L 139w L 196b W 249w L 177b L 215w W 245b 
+ 229  Bryant, Aiden                   6  FLMPSM  FL   605  2.0  13.00  12.00 L  67b L 184w L 152b L 227w W 245b W 248w L 174b 
+ 230  Ward, Chloe                     6  FLOLCH  FL        2.0  13.00  12.00 L 144w W 235b L  83w L 191b L 212w L 175b W 244w 
+ 231  Parker, Daniel                  6  NYAVEN  NY   613  2.0  12.50  11.50 L 141b L 130b L 232w L 243b W 246w W 226w L 176b 
+ 232  Russell, Stella                 6  NJS025  NJ   156  2.0  11.50  11.50 L  63w L 195b W 231b L 201w L 200b L 213w W 251w 
+ 233  Morris, Alexander               6  NYETHI  NY   500  2.0  11.50  11.50 L  90b L 164w L 219b W 251w L 172w L 198b W 243w 
+ 234  Bennett, Lillian                6  FLGULL  FL   474  2.0   9.50   9.50 L  66b L 187w L 140b W 245w   -H-  L 193w   -H-  
+ 235  Foster, Elijah                  6  NYS031  NY   108  2.0   9.50   9.50 L  96b L 230w L 204b   -B-  L 218w W 251b L 185w 
+ 236  Turner, Penelope                6  NYB164  NY   481  1.5  16.50  14.00 L 132w D 206b L 104w W 210b L 197w L 138b L 205w 
+ 237  Watson, Wyatt                   6  FLMJFK  FL   384  1.5  15.50  14.50 L  44b L 109w L 181b W 247w L 168w L 185b D 240w 
+ 238  Davis, Sophia                   6  FLT026  FL   683  1.5  15.00  14.00 L  86w L 149b W 243w L 179w D 239b L 141b L 186w 
+ 239  Reed, Caleb                     6  FLMJFK  FL   303  1.5  12.50  12.50 L 127b L 171w L 182b W 252w D 238w L 206b L 199w 
+ 240  Brooks, Olivia                  6  FLLONE  FL        1.5  11.50  10.50 L 155w L 154b L 175w L 226b L 242b W 246w D 237b 
+ 241  Hayes, Jackson                  6  NYB163  NY   422  1.0  14.50  14.50 L 126w L 106b L 179b L 186w W 252b L 174w L 227b 
+ 242  Bryant, Mia                     6  FLW031       259  1.0  14.50  13.00 L  88w L 198b L 180w L 185b W 240w L 202b L 221w 
+ 243  Ward, Noah                      6  TXS011  TX   246  1.0  14.00  12.50 L  42b L 110w L 238b W 231w L 225b L 207w L 233b 
+ 244  Parker, Harper                  6  FLMJFK  FL   330  1.0  13.50  12.50 L  91w L 197b L 170w L 208b W 249b L 204w L 230b 
+ 245  Russell, Ava                    6  FLA006  FL   172  1.0  11.50  11.50 L  97w L 167b L 203w L 234b L 229w W 252b L 228w 
+ 246  Morris, Aria                    6  FLMJFK  FL   137  1.0  10.50  10.50 L 101b L 193w L 200b L 217w L 231b L 240b W 252w 
+ 247  Bennett, Ethan                  6  FLCPON  FL        1.0  10.00  10.00 L 105w L 191b L 222w L 237b W 251b L 224w L 226b 
+ 248  Foster, Isabella                6  FLWBAK  FL   304  1.0  10.00  10.00   -H-    -H-  L 134b L 166w L 182w L 229b L 216b 
+ 249  Turner, Liam                    6  FLW031  FL        1.0   7.00   7.00 L 209b L 214w L 224b L 228b L 244w   -H-    -H-  
+ 250  Watson, Gabriel                 6  FLLONE  FL        0.5   0.00   0.00   ---    -H-    -F-    ---    ---    ---    ---  
+ 251  Davis, Chloe                    6  FLMJFK  FL   184  0.0  11.50  10.50 L  87b L 178w L 225b L 233b L 247w L 235w L 232b 
+ 252  Reed, Sophia                    6  NYTSCU  NY        0.0  10.50   9.50 L  93b L 173w L 207b L 239b L 241w L 245w L 246b 
+ 254  Hayes, Harper                   6  TXC039  TX   758  0.0   0.00   0.00   -F-    ---    ---    ---    ---    ---    ---  
+ 255  Bryant, Alexander               6  NYDALT  NY   590  0.0   0.00   0.00   -F-    ---    ---    ---    ---    ---    ---  
+ 256  Ward, Olivia                    6  FLW020  FL   552  0.0   0.00   0.00   -F-    ---    ---    ---    ---    ---    ---  
+ 257  Parker, Hazel                   6  NYN038  NY   111  0.0   0.00   0.00   -F-    ---    ---    ---    ---    ---    ---  
+ 258  Russell, Wyatt                  6  FLCPON  FL        0.0   0.00   0.00   -F-    ---    ---    ---    ---    ---    --- 

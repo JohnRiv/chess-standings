@@ -3,19 +3,10 @@ const fs = require('fs');
 const RATING_HEADING = "Rate";
 const RATING_LENGTH = 5; // 4 plus an extra buffer of 1 in case heading is off by 1
 
-// Read the content of the standings.txt file
-fs.readFile('./data/standings.txt', 'utf8', (err, data) => {
-    if (err) {
-        console.error('Error reading file:', err);
-        return;
-    }
-
-    // Split the content into lines
+function processStandings(data) {
     const lines = data.split('\n');
-
-    // Create new files for standings below 800 and for 800 to 1099
-    const stream800under = fs.createWriteStream('./data/standings-below-800.txt');
-    const stream800to1099 = fs.createWriteStream('./data/standings-800-to-1099.txt');
+    const standingsBelow800 = [];
+    const standings800to1099 = [];
 
     let ratingIndex = -1;
     let ratingEndIndex = -1;
@@ -28,21 +19,35 @@ fs.readFile('./data/standings.txt', 'utf8', (err, data) => {
         } else {
             const rating = parseInt(line.substring(ratingIndex, ratingEndIndex), 10);
             
-            console.log(line, "-->", rating); // for debugging
-            
             if (isNaN(rating) || rating < 800) {
-                // Write the line to the new file
-                stream800under.write(line + '\n');
+                standingsBelow800.push(line);
             } else if (rating < 1100) {
-                // Write the line to the new file
-                stream800to1099.write(line + '\n');
+                standings800to1099.push(line);
             }
         }
     });
 
-    // Close the new file stream
-    stream800under.end();
-    stream800to1099.end();
+    return { standingsBelow800, standings800to1099 };
+}
 
-    console.log('Processing complete. Check data/standings-below-800.txt & data/standings-800-to-1099.txt for the result.');
-});
+if (require.main === module) {
+    fs.readFile('./data/standings.txt', 'utf8', (err, data) => {
+        if (err) {
+            console.error('Error reading file:', err);
+            return;
+        }
+
+        const { standingsBelow800, standings800to1099 } = processStandings(data);
+
+        fs.writeFile('./data/standings-below-800.txt', standingsBelow800.join('\n'), (err) => {
+            if (err) throw err;
+        });
+        fs.writeFile('./data/standings-800-to-1099.txt', standings800to1099.join('\n'), (err) => {
+            if (err) throw err;
+        });
+
+        console.log('Processing complete. Check data/standings-below-800.txt & data/standings-800-to-1099.txt for the result.');
+    });
+}
+
+module.exports = { processStandings };

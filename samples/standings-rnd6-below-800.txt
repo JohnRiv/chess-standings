@@ -1,0 +1,80 @@
+ 102  Hayes, Aria                    FLB008   6  FL   561  3.5 L 115w D 170b W 173w D 163b W 164b D  93w  ---  
+ 152  Russell, Alexander             ALDISC   6  AL   761  3.0 L  47b W 246w L  95b D 161w D 133b W 179w  ---  
+ 153  Hayes, Scarlett                NYI318   6  NY   749  3.0 L  77b W 222w L  66b L  86w W 217w W 180b  ---  
+ 154  Foster, Liam                   FLW033   6  FL   737  3.0 W  79w L  80b L 118w W 125b L 123w W 181b  ---  
+ 155  Turner, Stella                 NJVVMS   6  NJ   719  3.0 L  80w W 125b L 119w L 100b W 219w W 182b  ---  
+ 156  Watson, Harper                 MDTAKO   6  MD   693  3.0 L  50b W 179w W 120b W  55w L  21b L  60w  ---  
+ 157  Morris, Aiden                  FLWBRI   6  FL   576  3.0 D  87w L 117b L 170w D 183b W 185w W 184b  ---  
+ 158  Bennett, Chloe                 FLT001   6  FL   498  3.0 L  91w W 141b L 123w W 185b W 161w L  78b  ---  
+ 159  Davis, James                   FLM090   6  FL        3.0 L  97w L 194b W 207w W 150b L 126w W 186b  ---  
+ 176  Parker, Chloe                  FLMMLM   6  FL   785  2.5 L  33b W 245w L  63b W 247w L  69b D 164w  ---  
+ 177  Bryant, Hazel                  FLO007   6  FL   718  2.5 D  82w L 105b W 223w W 162b L  90b L  98w  ---  
+ 178  Hayes, Daniel                  FLM091   6  FL   685  2.5 L  83b L 128w W 242b D 180w W 169b L 114w  ---  
+ 190  Bryant, Caleb                  FLHOMR   6  FL   769  2.0 D 105w D  82b L 116w L  83w L 216b W 234b  ---  
+ 191  Hayes, Ava                     FLP038   6  FL   761  2.0 L  48w W 224b L  64w L 160w W 232b L 127b  ---  
+ 192  Parker, Noah                   NYDALT   6  NY   745  2.0 L 106w L 140b W 236w L  92b W 233w L 131b  ---  
+ 193  Russell, Isabella              FLMHOW   6  FL   743  2.0 L  78w W 248b L  65w W 120w L  70b L 132b  ---  
+ 194  Morris, Wyatt                  NYDALT   6  NY   741  2.0 L  49b W 159w L  67b L 114w W 235b L 129w  ---  
+ 195  Bennett, Chloe                 FLB022   6  FL   735  2.0 L  35b L  79b L 219w W 240w L 218b W 235w  ---  
+ 196  Foster, Sophia                 NJVVMS   6  NJ   734  2.0 L 107w L  85b W 237w L 127b W 236w L 135b  ---  
+ 197  Turner, Benjamin               FLA006   6  FL   731  2.0 L 108b L  88w W 238b W 121w L  71b L 133w  ---  
+ 198  Watson, Lillian                FLM076   6  FL   714  2.0 L  81b L 164w W 240b L 165w W 237b L 136w  ---  
+ 199  Davis, Elijah                  FLO014   6  FL   689  2.0 L  36w L 126b W 230w L 168w W 239b L 137b  ---  
+ 200  Reed, Olivia                   CTR004   6  CT   663  2.0 L  51b L 165w W 243b L 181w W 242b L 138w  ---  
+ 201  Brooks, Alexander              NYACRI   6  NY   632  2.0 L  84w L 100b W 254w L 135b W 241w L 139b  ---  
+ 202  Hayes, Scarlett                FLT026   6  FL   620  2.0 L 160b D 129w L 169b L 179w D 223w W 236b  ---  
+ 203  Bryant, Joseph                 NYDALT   6  NY   620  2.0 L 110w L 166b W 220w L 136w W 221b L 140b  ---  
+ 204  Ward, Sophia                   NYAVEN   6  NY   613  2.0 L 161b L 167b L 244w L 241b W 255w W 237w  ---  
+ 205  Parker, Aiden                  NYN105   6       609  2.0 L  52b W 168w L  68b L 138w W 247b L 143w  ---  
+ 206  Russell, Chloe                 ALDISC   6  AL   606  2.0 L  53w L 130b W 255w L 139b W 244w L 141b  ---  
+ 207  Morris, Leo                    FLMPSM   6  FL   605  2.0 L  86b L 180w L 159b L 242w W 243b W 239w  ---  
+ 208  Foster, Stella                 FLT026   6  FL   595  2.0 L 111w L 131b W 221w L 140b L 224w W 238b  ---  
+ 209  Bennett, Grace                 WIEPIL   6  WI   595  2.0 L  54b W 132w L  69b L 171w L 222b W 240w  ---  
+ 210  Turner, Jackson                FLB008   6  FL   586  2.0 L  55b L 181w W 245b L 184w L 121b W 242w  ---  
+ 211  Watson, Mia                    FLB008   6  FL   585  2.0 L 113w L 134b W 258w L 141b L 125w W 241b  ---  
+ 212  Davis, Noah                    FLOLAK   6  MD   584  2.0 L 114b L 136w W 246b L 143w L 179b W 247w  ---  
+ 213  Reed, Harper                   FLT043   6  FL   567  2.0   -H-    -H-  W 121b L  35w L  99b L 145w  ---  
+ 214  Brooks, Caleb                  MDC015   6  MD   561  2.0 W  88b L  81w L  70b L 145w W 183w L 142b  ---  
+ 215  Hayes, Aria                    FLMJFK   6  FL   533  2.0 L  56w L 135b W 224w L 142b L 150w W 244b  ---  
+ 216  Bryant, Wyatt                  FLO003   6  FL   512  2.0 L  90b W 182w L  99b L 147w W 190w L 146b  ---  
+ 217  Ward, Daniel                   NYN015   6  NY   506  2.0 L  58w L 139b W 248w L 148w L 153b W 245b  ---  
+ 218  Parker, Hazel                  NYDALT   6  NY   405  2.0 L  62w L 144b L 141w W 255b W 195w L 148b  ---  
+ 219  Russell, Chloe                 FLMJFK   6  FL   341  2.0 L 116w L 146b W 195b L 186w L 155b W 231w  ---  
+ 220  Morris, Oliver                 TXH103   6  TX   170  2.0 L 120b L 187w L 203b W 234b W 231w L 147w  ---  
+ 221  Bennett, Emily                 NYS031   6  NY   108  2.0 L  69b L 247w L 208b   -B-  L 203w W 254b  ---  
+ 222  Foster, Benjamin               FLMMLM   6  FL        2.0 L  98w L 153b W 232w L 189b W 209w L 150b  ---  
+ 223  Turner, Sophia                 FLOARB   6  FL        2.0   -H-  L 101w L 177b L 228w D 202b W 233b  ---  
+ 224  Watson, Liam                   FLW031   6  FL        2.0 L  99b L 191w L 215b W 238w W 208b L 149w  -H-  
+ 225  Davis, Ava                     FLT026   6  FL   683  1.5 L 109w L 127b W 241w L 132w D 230b L 161b  ---  
+ 226  Reed, Noah                     FLSSMS   6  FL   574  1.5   -H-  L  87b W 183w L 122b L 170w L 169w  ---  
+ 227  Brooks, Mia                    FLW015   6  FL   484  1.5   -H-  W 169w L  87b L 128w L 120b L 173w  ---  
+ 228  Hayes, Olivia                  NYB164   6  NY   481  1.5 L  92w D 183b L 125w W 223b L 172w L 174b  ---  
+ 229  Bryant, Aiden                  FLGULL   6  FL   474  1.5 L  93b L 184w L 168b W 243w   -H-  L 175w  -H-  
+ 230  Ward, Chloe                    FLMJFK   6  FL   303  1.5 L  96b L 148w L 199b W 258w D 225w L 183b  ---  
+ 231  Parker, Daniel                 GAB010   6  GA   611  1.0 W  85w L  21b L  97w L 182w L 220b L 219b  ---  
+ 232  Russell, Stella                NYETHI   6  NY   500  1.0 L  59b L 138w L 222b W 254w L 191w L 185b  ---  
+ 233  Morris, Alexander              ALDISC   6  AL   490  1.0 L  60b L 171w W 179b L 149w L 192b L 223w  ---  
+ 234  Bennett, Lillian               NYB163   6  NY   422  1.0 L  94w L 142b L 132b L 220w W 258b L 190w  ---  
+ 235  Foster, Elijah                 FLMJFK   6  FL   384  1.0 L  61b L 143w L 182b W 245w L 194w L 195b  ---  
+ 236  Turner, Penelope               FLOLAK   6  FL   345  1.0 L  63b L 145w L 192b W 248w L 196b L 202w  ---  
+ 237  Watson, Wyatt                  FLM091   6  FL   332  1.0 L  95b L 147w L 196b W 246w L 198w L 204b  ---  
+ 238  Davis, Sophia                  FLMJFK   6  FL   330  1.0 L  64w L 172b L 197w L 224b W 248b L 208w  ---  
+ 239  Reed, Caleb                    FLWBAK   6  FL   304  1.0   -H-    -H-  L 129b L 187w L 199w L 207b  ---  
+ 240  Brooks, Olivia                 FLW031   6       259  1.0 L  65w L 185b L 198w L 195b W 246w L 209b  ---  
+ 241  Hayes, Jackson                 TXS011   6  TX   246  1.0 L  66b L 149w L 225b W 204w L 201b L 211w  ---  
+ 242  Bryant, Mia                    FLW031   6  FL   217  1.0 L 118w L 150b L 178w W 207b L 200w L 210b  ---  
+ 243  Ward, Noah                     FLA006   6  FL   172  1.0 L 119w L 188b L 200w L 229b L 207w W 258b  ---  
+ 244  Parker, Harper                 NJS025   6  NJ   156  1.0 L  37w L 189b W 204b L 173w L 206b L 215w  ---  
+ 245  Russell, Ava                   FLCPON   6  FL        1.0 L 122w L 176b L 210w L 235b W 254b L 217w  ---  
+ 246  Morris, Aria                   FLLONE   6  FL        1.0 L 123w L 152b L 212w L 237b L 240b W 255w  ---  
+ 247  Bennett, Ethan                 FLOLCH   6  FL        1.0 L 124w W 221b L 126w L 176b L 205w L 212b  ---  
+ 248  Foster, Isabella               FLW031   6  FL        0.5 L 163b L 193w L 217b L 236b L 238w   -H-   -H-  
+ 249  Turner, Liam                   FLLONE   6  FL        0.5   ---    -H-    -F-    ---    ---    ---   ---  
+ 251  Davis, Chloe                   TXC039   6  TX   758  0.0   -F-    ---    ---    ---    ---    ---   ---  
+ 252  Reed, Sophia                   NYDALT   6  NY   590  0.0   -F-    ---    ---    ---    ---    ---   ---  
+ 253  Brooks, Elijah                 FLW020   6  FL   552  0.0   -F-    ---    ---    ---    ---    ---   ---  
+ 254  Hayes, Harper                  FLMJFK   6  FL   184  0.0 L  67b L 186w L 201b L 232b L 245w L 221w  ---  
+ 255  Bryant, Alexander              FLMJFK   6  FL   137  0.0 L  68b L 175w L 206b L 218w L 204b L 246b  ---  
+ 256  Ward, Olivia                   NYN038   6  NY   111  0.0   -F-    ---    ---    ---    ---    ---   ---  
+ 257  Parker, Hazel                  FLCPON   6  FL        0.0   -F-    ---    ---    ---    ---    ---   ---  
+ 258  Russell, Wyatt                 NYTSCU   6  NY        0.0 L  71b L 151w L 211b L 230b L 234w L 243w  --- 
